@@ -1,1 +1,55 @@
 # arq.soft
+# Sistema de Gestión de Citas Psicológicas
+
+## Descripción del proyecto
+
+Este proyecto consiste en el desarrollo de un software orientado a la gestión y registro de citas médicas para el área de psicología.
+
+El sistema tiene como propósito facilitar el proceso de programación de citas para pacientes, permitiendo un mejor control y organización de la información.
+
+## Objetivo
+
+Desarrollar una plataforma que permita registrar, administrar y gestionar citas psicológicas de manera rápida, eficiente y organizada.
+
+## Funcionalidades principales
+
+- Registro de pacientes
+- Agendamiento de citas
+- Gestión de horarios disponibles
+- Registro de información personal
+- Control de fechas y horas
+- Administración de disponibilidad del sistema
+
+## Información solicitada al paciente
+
+El sistema solicita los siguientes datos:
+
+- Nombre(s)
+- Apellidos
+- Edad
+- Día de la cita
+- Hora de la cita
+
+## Tecnologías utilizadas
+
+Ejemplo:
+
+- C#
+- SQL Server
+- Windows Forms
+- Visual Studio
+
+## Beneficios del sistema
+
+- Mejor organización de citas
+- Reducción de errores manuales
+- Optimización del tiempo
+- Mayor facilidad de gestión para el personal
+
+## Estado del proyecto
+
+Proyecto en desarrollo.
+
+## Autor
+
+Fabian Camacho
