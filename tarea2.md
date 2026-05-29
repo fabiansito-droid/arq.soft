@@ -1,4 +1,4 @@
-# Estilo macro o esilo interno
+# Estilo macro o estilo interno
 El estilo macro permite mostrar de manera sencilla.
 - Como interactuan los usuarios con el sistema.
 - El flujo general de informacion.
